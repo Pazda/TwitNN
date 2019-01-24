@@ -1,5 +1,5 @@
 #!/user/bin/env python
-#t
+
 import tweepy
 from textgenrnn import textgenrnn
 import re
