@@ -4,7 +4,6 @@ Reads a given amount of tweets from a specific username and trains a model to ge
 For a casual personal learning project, messy code warning!!
 
 ## Dependencies:
-- Keras(?)
 - TensorFlow
 - NumPy
 - textgenrnn by minimaxir
